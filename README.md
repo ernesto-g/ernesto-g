@@ -1,9 +1,11 @@
 ### Proyectos UTN
+![alt text](https://github.com/ernesto-g/ernesto-g/raw/master/images/utn-fra.png)
 
 - [Copy detector](https://github.com/ernesto-g/copydetector_py)
 - [Micro-Test Library for Unit Testing in C](https://github.com/ernesto-g/utest)
 
 ### Proyecto CIAA
+![alt text](https://github.com/ernesto-g/ernesto-g/raw/master/images/ciaa.png)
 
 - [Firmware V1](https://github.com/ernesto-g/Firmware)
 - [Educiaa Python Editor](https://github.com/ernesto-g/educiaa_python_editor)
@@ -14,16 +16,20 @@
 - [Micropython demos for Educiaa](https://github.com/ernesto-g/educiaa-micropython-demos)
 
 ### Carrera de Especialización Embebidos FIUBA
+![alt text](https://github.com/ernesto-g/ernesto-g/raw/master/images/fiuba.png)
 
 - [Programación de microcontroladores](https://github.com/ernesto-g/prog_up_entregas)
 - [Workspace](https://github.com/ernesto-g/workspace)
 
 ### Carrera de Especialización IoT FIUBA
+![alt text](https://github.com/ernesto-g/ernesto-g/raw/master/images/fiuba.png)
 
 - [1era cohorte](https://github.com/ernesto-g/da1)
 - [2da cohorte](https://github.com/ernesto-g/daw)
 
 ### Audio
+![alt text](https://github.com/ernesto-g/ernesto-g/raw/master/images/audio.jpg)
+
 - [Arduino Analog-Digital Synth](https://github.com/ernesto-g/arduinosynth)
 - [Arduino digital polyphonic synth](https://github.com/ernesto-g/arduinosynth2)
 - [Rhythm Division Synth](https://github.com/ernesto-g/RhythmDivision)
